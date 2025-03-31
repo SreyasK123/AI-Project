@@ -26,12 +26,11 @@ This project uses NEAT (NeuroEvolution of Augmenting Topologies) to evolve a neu
    ```bash
    pip install -r requirements.txt
    ```
-   (Choose the appropriate command based on the project's tech stack.)
 
 ## Usage
 1. Run the application:
    ```bash
-   python main.py
+   python flappy_ai.py
    ```
 
 ## Team

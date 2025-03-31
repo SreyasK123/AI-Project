@@ -11,6 +11,7 @@ import neat
 import pickle
 pygame.font.init()  # init font
 
+
 WIN_WIDTH = 600
 WIN_HEIGHT = 800
 FLOOR = 730
