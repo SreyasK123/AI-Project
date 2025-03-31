@@ -32,6 +32,11 @@ This project uses NEAT (NeuroEvolution of Augmenting Topologies) to evolve a neu
    ```bash
    python flappy_ai.py
    ```
+2. Run the game: 
+``bash 
+   python flappy_game.py
+   ```
+   
 
 ## Team
 | Name                   | Email                          |
