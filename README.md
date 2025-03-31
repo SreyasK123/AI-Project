@@ -39,7 +39,7 @@ This project uses NEAT (NeuroEvolution of Augmenting Topologies) to evolve a neu
 | K. Sreyas              | sreyas_2301cs53@iitp.ac.in     |
 | Sahil Shaikh           | shaikh_2301cs76@iitp.ac.in     |
 | Prateek Gupta          | prateek_2301cs66@iitp.ac.in    |
-| Anish Ajit Ragashetty  | anish_2301cs05@iitp.ac.in      |
+| Anish Raghashetty      | anish_2301cs05@iitp.ac.in      |
 | Rithvik Konidena       | rithvik_2302cs09@iitp.ac.in    |
 | Aryan Phad             | aryan_2301cs09@iitp.ac.in      |
 
