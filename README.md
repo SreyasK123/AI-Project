@@ -7,6 +7,8 @@ The task was to create an AI agent using introductory models taught in class.
 
 The following project uses a genetic algorithm and usually creates a perfect AI agent in less than 5 generations of the algorithm, which is 50% faster than older models that needed 10–20 generations.
 
+This project uses NEAT (NeuroEvolution of Augmenting Topologies) to evolve a neural network capable of playing Flappy Bird. The AI improves over generations by adapting its structure and weights to navigate obstacles and achieve higher scores.
+
 ## Features
 - Uses genetic algorithm to train the model.
 - Has a user-friendly GUI.
