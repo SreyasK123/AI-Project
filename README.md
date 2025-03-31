@@ -1,7 +1,11 @@
 # AI Project
 
 ## Overview
-This project leverages artificial intelligence to solve [briefly describe the problem or purpose of the project]. It is designed to [explain the main functionality or goal of the project].
+This is our course project for CS2203: Artificial Intelligence at IIT Patna under Dr. Chandranath Adak.
+
+The task was to create an AI agent using introductory models taught in class.
+
+The following project uses a genetic algorithm and usually creates a perfect AI agent in less than 5 generations of the algorithm, which is 50% faster than older models that needed 10–20 generations.
 
 ## Features
 - Uses genetic algorithm to train the model.
@@ -25,16 +29,25 @@ This project leverages artificial intelligence to solve [briefly describe the pr
 ## Usage
 1. Run the application:
    ```bash
-   npm start
-   ```
-   or
-   ```bash
    python main.py
    ```
+
+## Team
+| Name                   | Email                          |
+|------------------------|--------------------------------|
+| K. Sreyas              | sreyas_2301cs53@iitp.ac.in     |
+| Sahil Shaikh           | shaikh_2301cs76@iitp.ac.in     |
+| Prateek Gupta          | prateek_2301cs66@iitp.ac.in    |
+| Anish Ajit Ragashetty  | anish_2301cs05@iitp.ac.in      |
+| Rithvik Konidena       | rithvik_2302cs09@iitp.ac.in    |
+| Aryan Vilas Phad       | aryan_2301cs09@iitp.ac.in      |
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 For questions or feedback, please contact [sreyas_2301cs53@iitp.ac.in].
+
+
+
 
