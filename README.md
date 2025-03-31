@@ -41,7 +41,7 @@ This project uses NEAT (NeuroEvolution of Augmenting Topologies) to evolve a neu
 | Prateek Gupta          | prateek_2301cs66@iitp.ac.in    |
 | Anish Ajit Ragashetty  | anish_2301cs05@iitp.ac.in      |
 | Rithvik Konidena       | rithvik_2302cs09@iitp.ac.in    |
-| Aryan Vilas Phad       | aryan_2301cs09@iitp.ac.in      |
+| Aryan Phad             | aryan_2301cs09@iitp.ac.in      |
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
